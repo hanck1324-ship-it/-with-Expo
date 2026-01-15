@@ -1,0 +1,42 @@
+// {
+//   "expo": {
+//     "name": "class-mobile",
+//     "slug": "class-mobile",
+//     "version": "1.0.0",
+//     "orientation": "portrait",
+//     "icon": "./assets/images/icon.png",
+//     "scheme": "myapp",
+//     "userInterfaceStyle": "automatic",
+//     "newArchEnabled": true,
+//     "splash": {
+//       "image": "./assets/images/splash-icon.png",
+//       "resizeMode": "contain",
+//       "backgroundColor": "#ffffff"
+//     },
+//     "ios": {
+//       "buildNumber": "1000001",  // section04/04-01-device-system-api 수업에서 진행
+//       "supportsTablet": true
+//     },
+//     "android": {
+//       "versionCode": 1000001,  // section04/04-01-device-system-api 수업에서 진행
+//       "adaptiveIcon": {
+//         "foregroundImage": "./assets/images/adaptive-icon.png",
+//         "backgroundColor": "#ffffff"
+//       }
+//     },
+//     "web": {
+//       "bundler": "metro",
+//       "output": "static",
+//       "favicon": "./assets/images/favicon.png"
+//     },
+//     "plugins": [
+//       "expo-router"
+//     ],
+//     "experiments": {
+//       "typedRoutes": true
+//     }
+//   }
+// }
+
+
+
