@@ -1,11 +1,8 @@
-import {View, Text} from 'react-native';
+// [Section 01 ]
+// import HelloWorldPage from '@/components/section01/01-01-hello-world/index.tsx'
+
+
 
 export default function IndexPage() {
-  return (
-   
-      <View>
-        <Text>안녕하세요</Text>
-      </View>
-
-  );
+  return <HelloWorldPage />
 }
